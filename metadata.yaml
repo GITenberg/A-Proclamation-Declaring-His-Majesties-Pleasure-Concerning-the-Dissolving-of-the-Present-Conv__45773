@@ -1,0 +1,34 @@
+_repo: A-Proclamation-Declaring-His-Majesties-Pleasure-Concerning-the-Dissolving-of-the-Present-Conv__45773
+_version: 0.1.0
+alternative_title: A Proclamation Declaring His Majesties Pleasure Concerning the
+  Dissolving of the Present Convention of Parliament
+covers:
+- cover_type: archival
+  image_path: 45773-h/images/cover.jpg
+creator:
+  author:
+    agent_name: James I, King of England
+    alias: James VI, King of Scotland
+    birthdate: 1566
+    deathdate: 1625
+    gutenberg_agent_id: '7089'
+    url: http://www.gutenberg.org/2009/agents/7089
+    wikipedia: http://en.wikipedia.org/wiki/James_I_of_England
+description: ''
+gutenberg_issued: '2014-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JN'
+- !lcsh 'Great Britain. Parliament -- Early works to 1800'
+- !lcsh 'Great Britain -- Politics and government -- 1603-1625'
+- !lcsh 'Great Britain. Parliament -- Dissolution -- Early works to 1800'
+- !lcc 'DA'
+title: A Proclamation Declaring His Maiesties Pleasure Concerning the Dissoluing of
+  the Present Conuention of Parliament
+url: http://www.gutenberg.org/ebooks/45773
